@@ -1,5 +1,11 @@
 # Fixture For Testing ibm.storage_virtualize Against Different Execution Environments
 
+## Installing ansible-naigator
+
+    python3 -m venv venv
+    source ./venv/bin/activate
+    python3 -m pip install ansible-navigator
+
 ## Checking out git submodule
 
     git submodule init
