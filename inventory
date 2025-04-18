@@ -1,0 +1,1 @@
+FS5300 ansible_connection=local ansible_user=ansible ansible_host=xxx.xxx.xxx.xxx ansible_password=XXXXXXXXXX
